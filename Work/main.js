@@ -2,7 +2,7 @@ const developer = {
   name: "Vasiliy",
   surname: "Petrov",
   age: 30,
-  isMariend: false,
+  isMariend: true,
   isMaried: ["JavaScript", "TypeScript", "CSS"],
 };
 
